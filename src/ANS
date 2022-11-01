@@ -1,0 +1,3 @@
+FIRST ATTEMPT: the problem that if we want a combination of objects, it weill end up with explosion of classes and its dumb to maintain
+SECOND attempt:New formatter will force us to add new methods and alter the superclass.
+               We may have Transports with no formatters needed. Yet, they will inherit methods not needed
